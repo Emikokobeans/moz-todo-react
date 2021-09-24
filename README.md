@@ -12,3 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] delete any task, using the mouse or keyboard
 - [x] edit any task, using the mouse or keyboard
 - [x] view a specific subset of tasks: All tasks, only the active tasks, or only the completed tasks
+
+Deployed at https://emikokobeans.github.io/moz-todo-react/
